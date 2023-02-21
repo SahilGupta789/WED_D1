@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(206, 188, 166);
+}
+.cent {
+    text-align: center;
+    background-color: aquamarine;
+}
+.main-container{
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    flex-direction: row;
+    opacity: 1;
+}
+.im1{
+    border-radius: 45px;
+    margin: 0px 10px 30px 20px;
+}
